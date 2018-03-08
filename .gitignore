@@ -1,0 +1,12 @@
+
+Client/\.idea/
+
+Client/cmake-build-debug/
+
+Client/CMakeLists\.txt
+
+Server/\.idea/
+
+Server/cmake-build-debug/
+
+Server/CMakeLists\.txt
